@@ -1,0 +1,614 @@
+ENGLAND
+t1
+Arsenal
+Manchester City
+Spurs
+Brighton
+Manchester United
+Fulham
+Chelsea
+Liverpool
+Brentford
+Newcastle
+Leeds
+Bournemouth
+Everton
+Southampton
+Aston Villa
+Crystal Palace
+Wolves
+West Ham
+Forest
+Leicester
+t2
+Watford
+West Brom
+Norwich
+Sheffield United
+Reading
+QPR
+Burnley
+Swansey
+Blackburn
+Sunderland
+Luton
+Preston
+Wigan
+Rotherham
+Bristol City
+Cardiff
+Millwall
+Hull
+Middlesbrough
+Birmingham
+Stoke
+Blackpool
+Huddersfield
+Coventry City
+GERMANY
+t1
+Union Berlin
+Dortmund
+Freiburg
+Hoffenheim
+Bayern
+Mgladbach
+Frankfurt
+Mainz
+Köln
+Werder Bremen
+Augsburg
+Leipzig
+Hertha Berlin
+Schalke
+Leverkusen
+Stuttgart
+Wolfsburg
+Bochum
+t2
+Darmstadt
+Paderborn
+Hamburger
+Heidenheim
+Dusseldorf
+Karlsruher
+Hannover
+Kaiserslautern
+Holstein Kiel
+Hansa Rostock
+Braunschweig
+Regensburg
+St. Pauli
+Magdeburg
+Nurnberg
+Sandhausen
+Greuther Furth
+Armenia Bielefeld
+FRANCE
+t1
+PSG
+Marseille
+Lorient
+Lens
+Monaco
+Lyon
+Lille
+Renne
+Montpellier
+Troyes
+Clermont Foot
+Toulouse
+Nice
+Angers
+Nantes
+Auxerre
+Reims
+Strasbourg
+Brest
+Ajaccio
+t2
+Bordeaux
+Amiens
+Sochaux
+Le Havre
+Guinhamp
+Valenciennes
+Bastia
+Caen
+Metz
+Paris FC
+Grenoble
+Dijon
+Stade Laval
+Averyon
+Quevilly
+Pau
+Annecy
+Saint-Etienne
+Nimes
+Niort
+ITALY
+t1
+Napoli
+Atalanta
+Udinese
+Lazio
+Milan
+Roma
+Inter
+Juventus
+Torino
+Fiorentina
+Sassuolo
+Spezia
+Salernitana
+Empoli
+Lecce
+Bologna
+Hellas Verona
+Monza
+Cremonese
+Sampdoria
+t2
+Bari
+Ternana
+Brescia
+Reggina
+Genoa
+Parma
+Frosinone
+Cosenza
+Cagliaro
+Sudtirol
+SPAL
+Modena
+Ascoli
+Cittadella
+Benevento
+Venezia
+Palermo
+Pisa
+Perugia
+Como
+SPAIN
+t1
+Real Madrid
+Barcelona
+Real Betis
+Athletic Bilbao
+Osasuna
+Villarreal
+Atletico Madrid
+Real Sociedad
+Valencia
+Mallorca
+Girona
+Rayo Vallecano
+Celta  Vigo
+Getafe
+Sevilla
+Almeria
+Espanyol
+Real Valladolid
+Cadiz
+Elche
+t2
+Alavés
+Las Palmas
+Cartagena
+Gijón
+Eibar
+Albacete
+Andorra
+Granada
+Huesca
+Levante
+Ponferradina
+Ibiza
+Tenerife
+Zaragoza
+Oviedo
+Lugo
+Mirandés
+Racing Santander
+Málaga
+Leganés
+PORTUGAL
+t1
+Benfica
+Braga
+Porto
+Sporting
+Casa Pia
+Guimaraes
+Boavista
+Estoril
+Chavez
+Portimonense
+Arouca
+Rio Ave
+Vizela
+Famalicao
+Vicente
+Santa Clara
+Maritimo
+Pacos de Ferreira
+THE NETHERLANDS
+t1
+Ajax
+PSV
+Feyenoord
+AZ
+Twente
+Herenveen
+Sparta Rottedam
+Utrecht
+Waalwijk
+Excelsior
+Fortuna Sittard
+NEC
+Vitesse
+Groningen
+Go Ahead Eagles
+Cambuur
+Emmen
+Volendam
+BELGIUM
+t1
+Genk
+Royal Antwerp
+Club Bruges
+Union
+Gent
+Standard Liege
+Westerlo
+Leuven
+Cercle Bruges
+Mechelen
+Sint-Truidense
+Anderlecht
+Sporting de Charleroi
+KAS Eupen
+Zulte Waregem
+Seraing
+Kortrijk
+Oostende
+SWEDEN
+t1
+Hacken
+Djurgaarden
+Hammerby
+Kalmar
+AIK
+Elfsborg
+Malmö
+Gothenburg
+Mjallby
+Varnamo
+Norrkoping
+Sirius
+Degerfors
+Varbergs
+Helsingborg
+Sundsvall
+POLAND
+t1
+Rakow C.
+Legia Warsaw
+Lech Poznan
+Widzew Loz
+Pogon Szczecin
+Cracovia Krakow
+Stal Mielec
+Wisla Plock
+Radomiak Radom
+Warta Poznan
+Slask Wroclaw
+Jagiellonia
+Lechia Gdansk
+Gornik Zabrze
+Piast Gliwice
+Zaglebie Lubin
+Korona Kielce
+Miedz Legnica
+RUSSIA
+t1
+Zenit
+FC Khimki
+Spartak Moscow
+Rostov
+Dinamo Moscow
+CSKA Moscow
+Akhmat Grozny
+Gazovik Orenburg
+Krasnodar
+Sochi
+URAL
+Krylia Sovetov
+Nizhny Novgorod
+Fakel Voronezh
+Lokomotiv Moscow
+Torpedo Moscow
+UKRAINE
+t1
+Dnipro-1
+Skakhtar Donetsk
+Dynamo Kyiv
+Zorya Luhansk
+Oleksandria
+Kolos Kovalivka
+Vorskla Poltava
+Metalist Kharkiv
+Hyrnik Kryvyi Rih
+Veres Rivne
+Metal Kharkiv
+Minai
+Rukh Vynnyky
+Inhulets Petrove
+Chornomorets Odessa
+Lviv
+TURKEY
+t1
+Galatasaray
+Fenerbahce
+Istanbul Baseksehir
+Besiktas
+Adana Demirspor
+Trabzonspor
+Keyserispor
+Konyaspor
+Fatih Karagumruk
+Gazisehir Gaziantep
+Alanyaspor
+Sivasspor
+Antalyaspor
+Hatayspor
+Ankaragucu
+Kasimpasa
+Giresunespor
+Istanbulspor
+Umraniyespor
+SCOTLAND
+t1
+Celtic
+Rangers
+Aberdeen
+Heart of Midlothian
+Hibernian
+St Mirren
+Motherwell
+Livingston
+St Johnstone
+Kilmarnock
+Ross County
+Dundee United
+IRELAND
+t1
+Shamrock Rovers
+Derry City
+Bohemians
+Dundalk
+Shelbourne
+St Patricks Athletic
+Sligo
+Drogheda United
+Cork
+UCD
+NORWAY
+t1
+Bodo/Glimt
+Lillestrom
+Viking FK
+SK Brann
+Tromso
+Stabaek
+Molde
+Sarpsborg FK
+Odds BK
+Valerenga
+Sandefjord
+Rosenborg
+Haugesund
+Hamarkameratene
+Stromsgodset
+Aalesund
+DENMARK
+t1
+Nordsjaelland
+Copenhagen
+Viborg
+Aarhus
+Randers
+Brondby
+Silkeborg
+Midtjylland
+Odense
+Horsens
+Lyngby
+AaB
+AUSTRIA
+t1
+Salzburg
+Sturm Graz
+LASK Linz
+Rapid Vienna
+Austria Vienna
+Austria Klagenfurt
+Swarovski Tirol
+Austria Lustenau
+Wolfsberger
+Hartberg
+Josko Ried
+Rhiendorf Altach
+SWITZERLAND
+t1
+Young Boys
+Servette
+Lugano
+Luzern
+Grasshoppers
+Basel
+St Gallen
+Zurich
+Winterthur
+Sion
+GREECE
+t1
+Panathinaikos
+AEK
+Olympiakos
+PAOK
+Aris
+Volos
+Panetolikos
+Atromitos
+Crete
+Asteras Tripoli
+Giannina
+Ionikos
+Lamia
+Levadiakos
+SERBIA
+t1
+Red Star Belgrade
+Partizan
+Cukaricki
+Vojvodina
+TSC
+Radnik Surdulica
+Mladost Lucani
+Proleter Novi Sad
+Metalac
+Spartak Subotica
+Napredak
+Novi Pazar
+Radnicki Nis
+Vozdovac
+Rad Beograd
+Javor
+Indija
+Zlatibor Cajetina
+Macva Sabac
+Backla Palanka
+CZECHIA
+t1
+Slavia Prague
+Sparta Prague
+Jablonec
+Slovacko
+Viktoria Plzen
+Slovan Liberec
+Pardubice
+Banik Ostrava
+Sigma Olomouc
+Bohemians 1905
+Mlada Boleslav
+Karvina
+Ceske Budejovice
+Zlin
+Teplice
+Zbrojovka Brno
+Pribram
+Opava
+CROATIA
+t1
+Dinamo Zagreb
+Lokomotiva Zagreb
+Rijeka
+Osijek
+Hajduk Split
+HNK Gorica
+Slaven Koprivnica
+Varazdin
+Istra 1961
+Inter Zapresic
+ICELAND
+t1
+Víkingur
+Valur
+Breiðablik
+Stjarnan
+FH
+KR
+KA
+HK
+Fylkir
+Fram
+ÍBV
+Keflavík
+HUNGARY
+t1
+Ferencvaros
+Paksi
+Diosgyori
+MTK
+Ujpest
+Puskas FC
+Debrecen
+Kecskemeti
+Fehervar
+Zalaegerszeg
+Mezokovesd
+Kisvarda
+ROMANIA
+t1
+FCSB
+CFR Cluj
+Universitatea Craiova
+FC Rapid 1923
+Hermannstadt
+Petrolul Ploiesti
+FCV Farul Constanta
+Otelul Galati
+Sepsi OSK
+U Craiova 1948
+Universitatea Cluj
+CSM Politehnica Iasi
+FC Voluntari
+UTA Arad
+Dinamo Bucuresti
+Botosani
+BULGARIA
+t1
+Lokomotiv Plovdiv
+Cherno More Varna
+CSKA-Sofia
+Arda Kardzhali
+Levski Sofia
+Ludogorets Razgrad
+CSKA 1948
+Beroe
+Krumovgrad
+Hebar
+Botev Plavdiv
+Pirin Blagoevgrad
+Lokomotiv Sofia 1929
+Botev Vratsa
+Slavia Sofia
+Etar
+SLOVAKIA
+t1
+Trencin
+Zeleziarne Podbrezova
+Zilina
+Slovan Bratislava
+Dukla Banska Bystrica
+Spartak Trnava
+DAC 1904
+Ruzomberok
+Skalica
+FC Kosice
+Zlate Moravce
+Zemplin Michalovce
+SLOVENIA
+t1
+NK Celje
+Olimpija Ljubljana
+Koper
+NK Bravo
+Maribor
+Mura
+Aluminij
+Domzale
+Radomlje
+Rogaska
